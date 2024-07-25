@@ -1,5 +1,5 @@
 # TDT-App
-Open source app designed for poluation studies measuring temporal discrimination
+Open source app designed for population studies measuring temporal discrimination
 
 Apologies, Repo Under Construction
 
