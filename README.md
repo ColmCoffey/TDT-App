@@ -82,7 +82,7 @@ For full details, please refer to the complete thesis document in the repository
 2. Enter subject information and select test parameters:
 
    # Settings Screen
-   ![Image_Settings_temo-transformed](https://github.com/user-attachments/assets/04b201a6-ff4a-49f5-b66c-3b0d1b0359f1)
+                     ![Image_Settings_temo-transformed (1)](https://github.com/user-attachments/assets/c332ce77-b125-403a-b27a-8e0b15dd4f53)
 
 
 4. Place the device in a VR headset and fit it on the subject.
@@ -90,13 +90,14 @@ For full details, please refer to the complete thesis document in the repository
 5. Follow on-screen instructions to conduct the TDT test:
 
    # Test Screen
-   ![image](https://github.com/user-attachments/assets/40280950-d9cc-4a79-b4dd-8a445349792e)
+                     ![image](https://github.com/user-attachments/assets/40280950-d9cc-4a79-b4dd-8a445349792e)
 
 
 6. After completion, review results and send the report via email:
 
    # Results Screen
-   ![image](https://github.com/user-attachments/assets/a5089b9f-f7a8-42e5-8d97-522917fd6fb6)
+                     ![Temp_email-transformed (1)](https://github.com/user-attachments/assets/6a0a061c-14f3-48ed-beef-38edeaab2706)
+
 
 
 ## Contributing 🤝
