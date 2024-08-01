@@ -9,7 +9,7 @@ Open source app designed for population studies measuring temporal discriminatio
 
 - [View Portfolio](https://drive.google.com/file/d/1JEqqHS_o56ehmzYib8gg85UB9U89VczC/view?pli=1)
 
-# Table of Contents 📑
+# Table of Contents 
 
 1. [Introduction 📖](#introduction-)
 2. [Thesis Document 📄](#thesis-document-)
